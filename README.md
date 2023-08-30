@@ -2,25 +2,25 @@
 Rom for rootless devices
 
 # Contents
-<a href="#launchers"> * Launchers</a>
+- <a href="#launchers">Launchers</a>
 
-<a href="#browser"> * Browser</a>
+- <a href="#browser">Browser</a>
 
-<a href="#shizuku"> * Shizuku</a>
+- <a href="#shizuku">Shizuku</a>
 
-<a href="#installer"> * Installer</a>
+- <a href="#installer">Installer</a>
 
-<a href="#app-stores"> * App Stores</a>
+- <a href="#app-stores">App Stores</a>
 
-<a href="#keyboard"> * Keyboard</a>
+- <a href="#keyboard">Keyboard</a>
 
-<a href="#file-managers"> * File Managers</a>
+- <a href="#file-managers">File Managers</a>
 
-<a href="#wallpaper"> * Wallpaper</a>
+- <a href="#wallpaper">Wallpaper</a>
 
-<a href="#system-apps"> * System Apps </a>
+- <a href="#system-apps">System Apps </a>
 
-<a href="#software-and-coding"> * Software And Coding</a>
+- <a href="#software-and-coding">Software And Coding</a>
 
 # How Can I Remove System Apps 
 
@@ -29,12 +29,13 @@ Just use [PackageManager](https://github.com/SmartPack/PackageManager) <a href="
 Do not uninstall Google Play Services, otherwise you will not be able to use Location features (optional)
 
 # Launchers
-[LawnchairLauncher](https://github.com/LawnchairLauncher/lawnchair) or [T-UI](https://github.com/fandreuz/TUI-ConsoleLauncher)
+[Shade Launcher](https://github.com/amirzaidi/Shade) or [T-UI](https://github.com/fandreuz/TUI-ConsoleLauncher)
  
 
 # Browser
 - ### Based on Chromium
 - [Cromite](https://github.com/uazo/cromite)
+- [Kiwi Browser](https://github.com/kiwibrowser/src.next)
 - ### Based on Gecko
 - [Mull](https://gitlab.com/divested-mobile/mull-fenix)
 
