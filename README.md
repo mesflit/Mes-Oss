@@ -39,8 +39,8 @@ Do not uninstall Google Play Services, otherwise you will not be able to use Loc
 - [Amaze](https://github.com/TeamAmaze/AmazeFileManager)
 
 # Wallpaper (optional)
-<a href="/wallpaper.jpg">
-   <img src="wallpaper.jpg" alt="wallpaper" width="300" height="200">
+<a href="/wallpaper.png">
+   <img src="wallpaper.png" alt="wallpaper" width="300" height="200">
 </a>
 
 # System Apps
