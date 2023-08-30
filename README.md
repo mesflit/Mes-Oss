@@ -1,6 +1,27 @@
 # Mes-Oss
 Rom for rootless devices
 
+# Contents
+<a href="#launchers"> * Launchers</a>
+
+<a href="#browser"> * Browser</a>
+
+<a href="#shizuku"> * Shizuku</a>
+
+<a href="#installer"> * Installer</a>
+
+<a href="#app-stores"> * App Stores</a>
+
+<a href="#keyboard"> * Keyboard</a>
+
+<a href="#file-managers"> * File Managers</a>
+
+<a href="#wallpaper"> * Wallpaper</a>
+
+<a href="#system-apps"> * System Apps </a>
+
+<a href="#software-and-coding"> * Software And Coding</a>
+
 # How Can I Remove System Apps 
 
 Just use [PackageManager](https://github.com/SmartPack/PackageManager) <a href="#shizuku"> ( Need Shizuku )</a>
@@ -34,11 +55,11 @@ Do not uninstall Google Play Services, otherwise you will not be able to use Loc
 # Keyboard
 - [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
 
-# File Manager 
+# File Managers 
 - [ZArchiver](http://zdevs.ru/)
 - [Amaze](https://github.com/TeamAmaze/AmazeFileManager)
 
-# Wallpaper (optional)
+# Wallpaper
 <a href="/wallpaper.png">
    <img src="wallpaper.png" alt="wallpaper" width="300" height="200">
 </a>
