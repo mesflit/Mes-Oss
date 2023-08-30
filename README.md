@@ -28,8 +28,8 @@ Do not uninstall Google Play Services, otherwise you will not be able to use Loc
 - [SAI](https://github.com/Aefyr/SAI) - for apk and other alternatives
 
 # App Stores
-- [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) - for PlayStore
-- [Droid-ify](https://github.com/Droid-ify/client) - for FDroid
+- [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) - for Play Store
+- [Droid-ify](https://github.com/Droid-ify/client) - for F-Droid
 
 # Keyboard
 - [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
@@ -57,3 +57,4 @@ Do not uninstall Google Play Services, otherwise you will not be able to use Loc
 # Software And Coding
 - [Acode Editor](https://github.com/deadlyjack/Acode) - code editor
 - [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) - Android Studio for Android
+- [Termux](https://github.com/termux/termux-app) - a Linux Environment
