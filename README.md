@@ -8,6 +8,8 @@ Rom for rootless devices
 
 - [Browser](#browser)
 
+- [Security](#security)
+
 - [Shizuku](#shizuku)
 
 - [App Stores](#app-stores)
@@ -38,6 +40,10 @@ Do not uninstall Google Play Services, otherwise you will not be able to use Loc
 - [Kiwi Browser](https://github.com/kiwibrowser/src.next)
 - ### Based on Gecko
 - [Mull](https://gitlab.com/divested-mobile/mull-fenix)
+
+# Security
+- [TrackerControl](https://github.com/TrackerControl/tracker-control-android) - TrackerControl is an Android app that allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour ('tracking').
+- [Vigilante](https://github.com/FunkyMuse/Vigilante) - An app that focuses on your privacy and alerts you when a third-party app uses your device camera or mic, plus few other goodies.
 
 # Shizuku
 - [Shizuku](https://github.com/RikkaApps/Shizuku)
