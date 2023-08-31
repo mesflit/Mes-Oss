@@ -1,6 +1,8 @@
 # Mes-Oss
 Rom for rootless devices
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmesflit%2FMes-Oss&countColor=%23f47373)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmesflit%2FMes-Oss)
+
 # Contents
 - <a href="#launchers">Launchers</a>
 
