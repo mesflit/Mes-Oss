@@ -4,25 +4,23 @@ Rom for rootless devices
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmesflit%2FMes-Oss&countColor=%23f47373)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmesflit%2FMes-Oss)
 
 # Contents
-- <a href="#launchers">Launchers</a>
+- [Launchers](#launchers)
 
-- <a href="#browser">Browser</a>
+- [Browser](#browser)
 
-- <a href="#shizuku">Shizuku</a>
+- [Shizuku](#shizuku)
 
-- <a href="#installer">Installer</a>
+- [App Stores](#app-stores)
 
-- <a href="#app-stores">App Stores</a>
+- [Keyboard](#keyboard)
 
-- <a href="#keyboard">Keyboard</a>
+- [File Managers](#file-managers)
 
-- <a href="#file-managers">File Managers</a>
+- [Wallpaper](#wallpaper)
 
-- <a href="#wallpaper">Wallpaper</a>
+- [System Apps](#system-apps)
 
-- <a href="#system-apps">System Apps </a>
-
-- <a href="#software-and-coding">Software And Coding</a>
+- [Software and Coding](#software-and-coding)
 
 # How Can I Remove System Apps 
 
@@ -82,3 +80,8 @@ Do not uninstall Google Play Services, otherwise you will not be able to use Loc
 - [Acode Editor](https://github.com/deadlyjack/Acode) - code editor
 - [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE) - Android Studio for Android
 - [Termux](https://github.com/termux/termux-app) - a Linux Environment
+
+# To Do
+- [ ] Create an automatic downloader for applications (for Termux, adb, and Obtanium)
+- [ ] Add more wallpaper (Community Can Help)
+- [ ] and more...
