@@ -63,8 +63,7 @@ Do not uninstall Google Play Services, otherwise you will not be able to use Loc
 - [Unexpected Keyboard](https://github.com/Julow/Unexpected-Keyboard)
 
 # File Managers 
-- [ZArchiver](http://zdevs.ru/)
-- [Amaze](https://github.com/TeamAmaze/AmazeFileManager)
+- [Material Files](https://github.com/zhanghai/MaterialFiles)
 
 # Wallpaper
 <a href="/wallpaper.png">
