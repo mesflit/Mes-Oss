@@ -28,6 +28,24 @@ Rom for rootless devices
 
 Just use [PackageManager](https://github.com/SmartPack/PackageManager) <a href="#shizuku"> ( Need Shizuku )</a>
 
+Or you can use [aShell](#shizuku)
+
+(Optional)
+```
+
+pm uninstall-system-updates com.google.android.inputmethod.latin
+
+pm uninstall-system-updates com.google.android.calendar
+
+pm uninstall-system-updates com.android.vending
+
+pm uninstall -k --user 0 com.android.vending
+
+pm uninstall -k --user 0 com.google.android.inputmethod.latin
+
+pm uninstall -k --user 0 com.google.android.calendar
+```
+
 Do not uninstall Google Play Services, otherwise you will not be able to use Location features (optional)
 
 # Launchers
